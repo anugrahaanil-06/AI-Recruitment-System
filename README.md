@@ -1,6 +1,8 @@
 # AI-Recruitment-System
 
-An AI-powered recruitment platform built using **Django and Python** that helps recruiters automatically evaluate candidate resumes based on job skill requirements.
+An **AI-powered recruitment platform** built using **Django and Python** that helps recruiters automatically evaluate candidate resumes based on job skill requirements.
+
+
 
 ## Features
 
@@ -12,6 +14,8 @@ An AI-powered recruitment platform built using **Django and Python** that helps 
 * Match score calculation between resume and job skills
 * Admin panel for job management
 
+
+
 ## Technologies Used
 
 * Python
@@ -19,6 +23,8 @@ An AI-powered recruitment platform built using **Django and Python** that helps 
 * SQLite
 * HTML
 * PyPDF2 (for resume parsing)
+
+
 
 ## How It Works
 
@@ -28,7 +34,9 @@ An AI-powered recruitment platform built using **Django and Python** that helps 
 4. Skills in the resume are compared with job requirements.
 5. A **match score** is generated automatically.
 
-## Installation
+
+
+# Installation
 
 ```bash
 git clone https://github.com/anugrahaanil-06/AI-Recruitment-System.git
@@ -38,6 +46,8 @@ python manage.py migrate
 python manage.py runserver
 ```
 
+
+
 ## Future Improvements
 
 * NLP based semantic skill matching
@@ -46,6 +56,9 @@ python manage.py runserver
 * Job recommendation system
 * AI-based resume screening
 
-## Author
 
-Anugraha AL
+
+# Author
+
+**Anugraha AL**
+
